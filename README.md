@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _Private Island Resort_
 
 #### By _**{List of contributors}**_
 
