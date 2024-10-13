@@ -2,7 +2,7 @@
 
 #### By _**James Tlaloc**_
 
-#### _{Brief description of application}_
+#### _A webpage for Private Island Resort_
 
 ## Technologies Used
 
