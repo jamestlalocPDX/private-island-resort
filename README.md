@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This application will act as the main website for the private island resort - self-titled. It will provide available activities, pictures of those who have visited the resort, access to resources for travel arrangements, and contact information._
 
 ## Setup/Installation Requirements
 
