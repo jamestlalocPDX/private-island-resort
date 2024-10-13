@@ -15,11 +15,11 @@ _This application will act as the main website for the private island resort - s
 
 ## Setup/Installation Requirements
 
-- _This is a great place_
-- _to list setup instructions_
-- _in a simple_
-- _easy-to-understand_
-- _format_
+- _Clone this repository_
+- _Install VS Code_
+- _Install the extension "live server" to VS Code_
+- _Right click on the index file and select "open with live server."_
+- _Navigate the website_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
