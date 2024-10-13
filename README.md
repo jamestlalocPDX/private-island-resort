@@ -28,6 +28,4 @@ _This application will act as the main website for the private island resort - s
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _2024_ _James Tlaloc_
